@@ -13,7 +13,7 @@
 <div class="flex justify-center pt-48">
     <div class="bg-white overflow-hidden shadow rounded-lg divide-y divide-gray-200 w-8/12 ">
         <div class="px-4 py-5 sm:px-6">
-            <h2>Task list</h2>
+            <h2>Task Lists</h2>
         </div>
         <div class="px-4 py-5 sm:p-6">
             <div class="bg-white shadow overflow-hidden rounded-md">
